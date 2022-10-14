@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 800px;
+  flex-direction: column;
+}
+
+#root{
+  display: flex;
+  justify-content: center;
+}
+
