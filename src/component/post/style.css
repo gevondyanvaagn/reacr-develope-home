@@ -1,0 +1,13 @@
+.post{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #2a50db;
+    margin-top: 15px;
+  }
+  .post_content{
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
